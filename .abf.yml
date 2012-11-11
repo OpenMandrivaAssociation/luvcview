@@ -1,0 +1,5 @@
+sources:
+  "dynctrl-logitech.h:"	ec41cefbab7ff0d582842de009310e9bcd7742bf
+  "luvcview-0.2.6.tar.lzma:"	5615d687b415daa263d90c82d73235aeb8e986bf
+  "uvc_compat.h:"	f1e6a99bd158e35fdc5b3ec63d9e6b43596341bf
+  "uvcvideo.h:"	e4522d6eff707142e2c3f277b718b180d9a9a100
