@@ -12,7 +12,7 @@ Source2: 	uvcvideo.h
 Source3: 	uvc_compat.h
 License: 	GPLv2+
 Group:		Video
-Url:		http://www.quickcamteam.net/software/linux/v4l2-software/luvcview
+Url:		https://www.quickcamteam.net/software/linux/v4l2-software/luvcview
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires:	SDL-devel
 
