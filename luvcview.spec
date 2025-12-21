@@ -14,6 +14,7 @@ License: 	GPLv2+
 Group:		Video
 Url:		https://www.quickcamteam.net/software/linux/v4l2-software/luvcview
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
+BuildRequires:	make
 BuildRequires:	SDL-devel
 
 %description
