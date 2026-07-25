@@ -1,6 +1,6 @@
 %define name	luvcview
 %define version 0.2.6
-%define release %mkrel 2
+%define release 3
 
 Summary:	SDL-based video grabber
 Name:		%{name}
